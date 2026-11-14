@@ -24,7 +24,9 @@ python3 beats.py script.txt --target 30     # timed beat sheet before you shoot
 
 ## Before you write
 
-1. Read `~/.claude/instagram/voice.md` if it exists. That is the user's voice
+1. Read `voice.md` at the repository root first, then `~/.claude/instagram/voice.md`
+   if it exists (the home copy wins on conflicts). If the root file is still the
+   unfilled template, treat it as empty. That is the user's voice
    profile: how they talk on camera, what they never say, who they are talking
    to. If it does not exist, ask for **three of their own reels**, transcribe or
    read them, infer the voice, and write the file. A script in the wrong voice
