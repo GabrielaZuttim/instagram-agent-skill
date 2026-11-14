@@ -1,44 +1,38 @@
 # voice.md
 
-Copy this to `~/.claude/instagram/voice.md` and fill it in. Every skill in the
-pack reads it. Ten minutes here is the difference between scripts you shoot and
-scripts you rewrite.
+Perfil de voz usado pelas skills ig-*. Campos vazios ainda não foram
+respondidos: as skills não devem inventá-los.
 
-If you would rather not fill it in by hand, send Claude three of your own reels
-or captions and say "write my voice.md from these". That works better than
-guessing at the answers.
-
-This file matters more on Instagram than anywhere else, because you have to say
-the words out loud. A line you would never say is not a draft, it is a retake.
+Este arquivo está no repositório, então não coloque aqui nomes de pacientes,
+números sob sigilo ou qualquer dado que não possa ficar no GitHub.
 
 ---
 
 ## Who I am
 
-- **Name:**
+- **Name:** Gabriela
 - **Handle:**
-- **What I do, in one sentence:**
-- **Who I am talking to:** (be specific: "photographers charging under $2,000",
-  not "creatives")
-- **What I sell:**
+- **What I do, in one sentence:** Sou terapeuta multidimensional e atendo
+  pacientes que precisam de tratamento multidimensional e tratamento energético.
+- **Who I am talking to:** Pessoas que acreditam na espiritualidade e nas
+  técnicas de terapias multidimensionais e nas energias.
+- **What I sell:** Atendimentos de terapia multidimensional e tratamento
+  energético.
 
 ## What I sound like
 
-- **Three of my own reels or captions that sound most like me:** (paste them)
-- **On camera I am:** (fast and loud / dry / calm / funny / deadpan)
+- **Three of my own reels or captions that sound most like me:**
+- **On camera I am:** Calma e elegante.
 - **Words I actually use:**
-- **Words I would never say out loud:**
-- **Do I swear:** (yes / mild / no)
-- **Emoji in captions:** (never / one, rarely / freely)
-- **Face on camera:** (always / sometimes / faceless)
+- **Words I would never say out loud:** Xingamentos e palavrões.
+- **Do I swear:** No
+- **Emoji in captions:**
+- **Face on camera:**
 - **Voiceover or to-camera:**
-- **Pace:** (words per minute, if you have timed yourself reading a script.
-  `beats.py --wpm` uses this. Most people are between 150 and 200.)
+- **Pace:** Ritmo contínuo e normal, nem lento nem agitado. Tom de voz elegante.
+  (Palavras por minuto ainda não medidas. Sem isso, `beats.py` usa o padrão.)
 
 ## My positions
-
-Three to five things I believe that some of my audience does not. These are
-where the good reels come from.
 
 1.
 2.
@@ -48,13 +42,9 @@ where the good reels come from.
 
 - **Topics I do not post about:**
 - **Clients, numbers or names I cannot say publicly:**
-- **Claims I am not allowed to make:** (regulated industry, employer policy, NDA)
+- **Claims I am not allowed to make:**
 
 ## Proof I can use
-
-Real numbers, outcomes and stories I am happy to put my name on. The skills will
-never invent one, so if this section is empty, every draft comes back with
-`{{your number}}` in it.
 
 -
 -
@@ -62,6 +52,6 @@ never invent one, so if this section is empty, every draft comes back with
 
 ## The ask
 
-- **My keyword CTA, if I use one:** (one word, sayable, no spaces)
+- **My keyword CTA, if I use one:**
 - **What the keyword sends them:**
 - **Where my link goes:**
