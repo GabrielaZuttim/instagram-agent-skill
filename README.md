@@ -46,9 +46,10 @@ Project-local instead of global: copy the same folders into your repo's
 of a chat and it runs as a mode. You lose the five Python tools, which is most
 of the point of `/ig-reel` and `/ig-human`, but the rest works.
 
-Then spend ten minutes on `templates/voice.md`. Copy it to
-`~/.claude/instagram/voice.md` and fill it in, or send Claude three of your own
-reels and say "write my voice.md from these". Every skill reads that file. It
+Then spend ten minutes on `templates/voice.md`. Copy it to `voice.md` at the
+repository root (or to `~/.claude/instagram/voice.md`, which wins on conflicts
+but does not survive cloud sessions) and fill it in, or send Claude three of
+your own reels and say "write my voice.md from these". The skills read that file. It
 matters more here than on other platforms, because you have to say the words
 out loud.
 

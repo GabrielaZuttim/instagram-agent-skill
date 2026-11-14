@@ -2,7 +2,7 @@
 name: ig-caption
 description: >-
   Write the Instagram caption - the line that survives the "... more" cut, the
-  body, the single ask, the search terms and the three hashtags - and lint it
+  body, the single ask, the search terms and the hashtags (three by default, five at most) - and lint it
   before it goes out. Use when the user says "write the caption", "caption this",
   "what do I put in the description", has a reel or a carousel ready and needs
   the text, or asks about hashtags.
@@ -47,7 +47,8 @@ Line 1      125 characters of visible space. Job A: the ask, plainly.
 Body        short paragraphs, one line of white space between each. Two to six
             of them. This is where the search terms live.
 The ask     one. Comment a keyword, save it, or DM. One.
-Hashtags    up to five, on their own line at the bottom, or none.
+Hashtags    three by default, five at most, on their own line at the bottom,
+            or none.
 ```
 
 Limit is 2,200 characters and almost nothing needs 2,200. A caption that earns
@@ -62,7 +63,7 @@ targeted hashtags, rather than many generic ones" performs better. Adam Mosseri
 had already said in February 2025 that hashtags do not work to increase reach
 and are a label, not a distribution lever.
 
-So: up to five, specific, as topic labels. If the user has a block of twenty
+So: three by default, never more than five, specific, as topic labels. If the user has a block of twenty
 saved in their notes app, that block is now dead weight and the linter will
 fail it.
 
