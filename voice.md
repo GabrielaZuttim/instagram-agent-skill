@@ -11,7 +11,7 @@ números sob sigilo ou qualquer dado que não possa ficar no GitHub.
 ## Who I am
 
 - **Name:** Gabriela
-- **Handle:**
+- **Handle:** {{ainda não tenho @}}
 - **What I do, in one sentence:** Sou terapeuta multidimensional e atendo
   pacientes que precisam de tratamento multidimensional e tratamento energético.
 - **Who I am talking to:** Pessoas que acreditam na espiritualidade e nas
@@ -65,9 +65,12 @@ números sob sigilo ou qualquer dado que não possa ficar no GitHub.
 
 ## The ask
 
-- **My keyword CTA, if I use one:**
-- **What the keyword sends them:**
-- **Where my link goes:**
+- **My keyword CTA, if I use one:** ESCUTA (proposta, ainda não confirmada)
+- **What the keyword sends them:** Uma mensagem de acolhimento explicando como
+  funcionam os atendimentos e como agendar uma conversa. (proposta, ainda não
+  confirmada)
+- **Where my link goes:** {{ainda não tenho link}} (sem @ e sem link por
+  enquanto; nenhum roteiro deve citar um link ou @ que não existe)
 
 ---
 
